@@ -17,6 +17,10 @@ main:
   #   url: /sitemap/
 
 
+  # title : 사이드바에 표기될 category 명
+  # url : title을 클릭했을 때 이동할 archive
+  # category_name : 사이드바에서 category별 post 개수를 구하기 위해 전달하는 category의 문자열이 저장될 변수
+
   docs:
     - title: "STUDY"
       url: /study/
