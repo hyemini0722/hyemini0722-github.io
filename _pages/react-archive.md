@@ -1,6 +1,6 @@
 ---
-title: "Vue"
+title: "React"
 layout: category
 permalink: /study/react/
-taxonomy: vue
+taxonomy: react
 ---
