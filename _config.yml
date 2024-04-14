@@ -268,6 +268,26 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
+# STUDY 카테고리 archive 설정
+study_archive:
+  type: liquid
+  path: /study/
+react_archive:
+  type: liquid
+  path: /study/react/
+vue_archive:
+  type: liquid
+  path: /study/vue/
+codingTest_archive:
+  type: liquid
+  path: /study/codingTest/
+
+# PROJECT 카테고리 archive 설정
+project_archive:
+  type: liquid
+  path: /project/
+
+
 
 # HTML Compression
 # - https://jch.penibelst.de/

@@ -5,9 +5,6 @@ main:
   - title: "Tag"
     url: /tags/
 
-
-
-
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -18,3 +15,23 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+  docs:
+    - title: "STUDY"
+      url: /study/
+      category_name: "study"
+      children:
+        - title: "React"
+          url: /dev/react/
+          category_name: "react"
+        - title: "Vue"
+          url: /dev/vue/
+          category_name: "vue"
+        - title: "Coding Test"
+          url: /codingTest/
+          category_name: "codingTest"
+    - title: "PROJECT"
+      url: /project/
+      category_name: "project"
+      children:
