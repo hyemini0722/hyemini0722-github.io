@@ -23,13 +23,13 @@ main:
       category_name: "study"
       children:
         - title: "React"
-          url: /dev/react/
+          url: /study/react/
           category_name: "react"
         - title: "Vue"
-          url: /dev/vue/
+          url: /study/vue/
           category_name: "vue"
         - title: "Coding Test"
-          url: /codingTest/
+          url: /study/codingTest/
           category_name: "codingTest"
     - title: "PROJECT"
       url: /project/
