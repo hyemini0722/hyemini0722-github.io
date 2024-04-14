@@ -29,13 +29,12 @@ docs:
       - title: "React"
         url: /study/react/
         category_name: "react"
-  #     - title: "Vue"
-  #       url: /study/vue/
-  #       category_name: "vue"
-  #     - title: "Coding Test"
-  #       url: /study/codingTest/
-  #       category_name: "codingTest"
-  # - title: "PROJECT"
-  #   url: /project/
-  #   category_name: "project"
-  #   children:
+      - title: "Vue"
+        url: /study/vue/
+        category_name: "vue"
+      - title: "Coding Test"
+        url: /study/codingTest/
+        category_name: "codingTest"
+  - title: "PROJECT"
+    url: /project/
+    category_name: "project"
