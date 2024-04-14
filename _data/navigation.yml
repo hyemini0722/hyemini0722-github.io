@@ -21,21 +21,21 @@ main:
   # url : title을 클릭했을 때 이동할 archive
   # category_name : 사이드바에서 category별 post 개수를 구하기 위해 전달하는 category의 문자열이 저장될 변수
 
-  # docs:
-  #   - title: "STUDY"
-  #     url: /study/
-  #     category_name: "study"
-  #     children:
-  #       - title: "React"
-  #         url: /study/react/
-  #         category_name: "react"
-  #       - title: "Vue"
-  #         url: /study/vue/
-  #         category_name: "vue"
-  #       - title: "Coding Test"
-  #         url: /study/codingTest/
-  #         category_name: "codingTest"
-  #   - title: "PROJECT"
-  #     url: /project/
-  #     category_name: "project"
-  #     children:
+docs:
+  - title: "STUDY"
+    url: /study/
+    category_name: "study"
+    children:
+      - title: "React"
+        url: /study/react/
+        category_name: "react"
+  #     - title: "Vue"
+  #       url: /study/vue/
+  #       category_name: "vue"
+  #     - title: "Coding Test"
+  #       url: /study/codingTest/
+  #       category_name: "codingTest"
+  # - title: "PROJECT"
+  #   url: /project/
+  #   category_name: "project"
+  #   children:
