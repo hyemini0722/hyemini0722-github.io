@@ -1,7 +1,6 @@
 ---
 title: "Coding Test"
 layout: category
-permalink: /codingTest/
-author_profile: true
+permalink: /study/codingTest/
 taxonomy: codingTest
 ---

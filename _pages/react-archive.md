@@ -1,6 +1,6 @@
 ---
 title: "Vue"
 layout: category
-permalink: /study/vue/
+permalink: /study/react/
 taxonomy: vue
 ---
