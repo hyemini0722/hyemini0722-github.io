@@ -313,7 +313,7 @@ defaults:
       show_date: true
       date_format: "%Y-%m-%d"
       # sideber_main: true
-      # sidebar:
-      #   nav: "docs"
+      sidebar:
+        nav: "docs"
 
 futrue: ture
